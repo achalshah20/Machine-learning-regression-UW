@@ -1,4 +1,5 @@
-# Regression
+# Machine learning: Regression
+## Offered by university of washington on coursera
 
 I have implemented following regression algorithms in python: (from scratch)
 
